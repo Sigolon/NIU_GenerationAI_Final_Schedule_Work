@@ -1,4 +1,4 @@
 .env
 .gradio
 py_env
-.ipynb
+*.ipynb
